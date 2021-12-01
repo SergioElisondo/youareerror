@@ -66,6 +66,28 @@ input, select, textarea {
 	appearance: none;
 }
 
+a:hover {
+	opacity: .7;
+	color:#339fa6;
+	text-shadow: 1px 1px #000000;
+}
+
+a h2:hover {
+	opacity: .7;
+		color:#339fa6;
+		text-shadow: 1px 1px #000000;
+}
+
+a img:hover {
+	opacity: .7;
+		color: #339fa6;
+		
+}
+
+/* img {
+	box-shadow: 2px 2px 4px #000000;
+} */
+
 /* Basic */
 
 	@-ms-viewport {
